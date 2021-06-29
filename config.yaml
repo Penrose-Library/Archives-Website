@@ -1,0 +1,79 @@
+baseURL: https://penrose.whitman.edu/archives
+languageCode: en-us
+defaultContentLanguage: en
+title: Whitman College and Northwest Archives
+theme: Penrose-cupper-hugo-theme
+googleAnalytics: 
+disqusShortname: 
+enableGitInfo: true
+summaryLength: 25
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  pages: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: 
+  homeMetaContent: Penrose Library NG website. Deveopment. Do not use
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page.
+  # For more date formats see https://gohugo.io/functions/format/
+  MatomoSiteID: 2
+  dateFormat: Jan 2, 2006
+  codePenUser: someUser
+  katex: false
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: false
+  moveFooterToHeader: false
+  customCss:
+    - css/simple-tooltip.css
+    - css/custom.css
+  customJs:
+    - js/jquery-3.6.0.min.js
+    - js/home-searchbox.js
+    - js/custom.js
+    - js/van11y-accessible-simple-tooltip-aria.min.js
+
+menu:
+  nav:
+    - name: Explore our Collections
+      url: /collections/
+      weight: 1
+
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
