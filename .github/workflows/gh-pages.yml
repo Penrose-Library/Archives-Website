@@ -26,9 +26,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-        #  github_token: ${{ secrets.GITHUB_TOKEN }}
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: Penrose-Library/PenroseLibrary-Web
-          publish_branch: Public_Web
+          external_repository: Penrose-Library/PenroseLibrary_Website_Public
+          publish_branch: main
           publish_dir: ./public
           destination_dir: archives
