@@ -12,7 +12,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  pages: /:filename/
+  pages: /archives/:filename/
 
 imaging:
   quality: 99
@@ -42,7 +42,7 @@ params:
 menu:
   nav:
     - name: Explore our Collections
-      url: /collections/
+      url: /collection/
       weight: 1
 
 
