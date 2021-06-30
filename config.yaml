@@ -2,7 +2,7 @@ baseURL: https://penrose.whitman.edu/archives
 languageCode: en-us
 defaultContentLanguage: en
 title: Whitman College and Northwest Archives
-theme: Penrose-cupper-hugo-theme
+theme: Penrose-Archive
 googleAnalytics: 
 disqusShortname: 
 enableGitInfo: true
@@ -34,8 +34,6 @@ params:
     - css/simple-tooltip.css
     - css/custom.css
   customJs:
-    - js/jquery-3.6.0.min.js
-    - js/home-searchbox.js
     - js/custom.js
     - js/van11y-accessible-simple-tooltip-aria.min.js
 
