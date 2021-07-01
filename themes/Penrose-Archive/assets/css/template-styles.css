@@ -626,6 +626,8 @@ main {
     display: block;
     counter-reset: fig;
     min-height: 100vh;
+    max-width: 95%;
+    padding: 0 2rem 0 4rem;
 }
 figcaption::before {
     counter-increment: fig;
