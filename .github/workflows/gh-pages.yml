@@ -27,7 +27,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: Penrose-Library/PenroseLibrary_Website_Public
-          publish_branch: main
+          external_repository: Penrose-Library/PenroseLibrary-Web
+          publish_branch: master
           publish_dir: ./public
-          destination_dir: archives
+          destination_dir: static/archives
