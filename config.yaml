@@ -6,7 +6,7 @@ theme: Penrose-Archive
 googleAnalytics: 
 disqusShortname: 
 enableGitInfo: true
-summaryLength: 25
+summaryLength: 55
 
 taxonomies:
   tag: tags
