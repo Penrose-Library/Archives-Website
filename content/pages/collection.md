@@ -1,6 +1,6 @@
 ---
-date: "2021-06-29"
-title: "Explore our Collections"
+title: Explore our Collections
+date: 2021-06-29
 ---
 
 
@@ -53,7 +53,7 @@ Includes Whitman College publications such as the College catalog and yearbooks,
 
 Part of the circulating collection of Penrose Library, the Eells collection includes books about the history and culture focusing on the Inland Pacific Northwest. Books from the Eells Collection are located on the first floor outside the Archives, and can be found in Sherlock.
 
-# Searching Our Collections
+## Searching Our Collections
 
 **[Archives West](https://archiveswest.orbiscascade.org/)**includes finding aids for our College Records and Northwest Manuscripts Collections. Our finding aids provide high-level overviews to the contents of an archival collection, including information about the creator and the scope and contents of the collection.
 
