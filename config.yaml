@@ -39,9 +39,12 @@ params:
 
 menu:
   nav:
+    - name: About Archives
+      url: /about/
+      weight: 1
     - name: Explore our Collections
       url: /collection/
-      weight: 1
+      weight: 2
 
 
 markup:
