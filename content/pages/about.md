@@ -1,5 +1,5 @@
 ---
-title: About the Archives
+title: About Archives
 date: 2021-07-29
 ---
 ## Mission and History
