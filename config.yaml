@@ -48,7 +48,9 @@ menu:
     - name: Information for Researcher
       weight: 3
       url: /research-services/
-
+    - name: Instruction and Tours
+      weight: 4
+      url: /instruction-and-tours/
 
 markup:
   defaultMarkdownHandler: goldmark
