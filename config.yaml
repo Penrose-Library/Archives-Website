@@ -45,6 +45,9 @@ menu:
     - name: Explore our Collections
       url: /collection/
       weight: 2
+    - name: Information for Researcher
+      weight: 3
+      url: /research-services/
 
 
 markup:
