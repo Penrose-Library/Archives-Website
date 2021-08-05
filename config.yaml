@@ -51,6 +51,10 @@ menu:
     - name: Instruction and Tours
       weight: 4
       url: /instruction-and-tours/
+    - name: Digital Projects
+      weight: 5
+      url: /digital-projects/
+      
 
 markup:
   defaultMarkdownHandler: goldmark
