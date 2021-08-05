@@ -6,7 +6,7 @@ date: 2021-08-05T23:00:37.269Z
 
 ### Documenting our Lives during the COVID-19 Pandemic
 
-[![click to submit stories to Whitman College and Northwest Archives for Walla Walla Covid Stories](https://library.whitman.edu/archives/wp-content/uploads/sites/2/2020/06/Coronavirus-stories-banner_3.png)](https://forms.gle/V4geLUexVSN6Qjt27)
+[![click to submit stories to Whitman College and Northwest Archives for Walla Walla Covid Stories](/archives/images/Coronavirus-stories-banner_3.png)](https://forms.gle/V4geLUexVSN6Qjt27)
 
 Whitman College and Northwest Archives is creating a digital archive of the Walla Walla community’s experiences during the COVID-19 pandemic. As our community begins to reopen, it is important to reflect on our experiences of the pandemic, including our experiences at work and school, our social and family interactions, and the changes to our routines. We welcome submissions in all languages from all members of the Walla Walla and regional communities.
 
@@ -54,11 +54,11 @@ The form will ask you to sign an agreement allowing the Archives to preserve you
 If you interview other people in the course of your documentation, or if any materials are co-created by you and another person, we will also need their contact information so we can obtain their permission to preserve and share the materials with future researchers. 
 
 This project has been inspired by, and borrowed from, ideas generated from [Documenting Your Community’s Experience of COVID-19: A Resource List](https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit?pli=1). In particular, we acknowledge the work of Atkins [Library Special Collections & University Archives](https://library.uncc.edu/contribute-your-stories-covid-19-outbreak) at the UNC Charlotte.
-
-[![](https://library.whitman.edu/archives/wp-content/uploads/sites/2/2020/06/Spanish-Coronavirus-stories-banner.png)](https://forms.gle/JAVU4owbasX8bh289)
 </div>
 
 <div class="pull-right">
+
+[![](/archives/images/Spanish-Coronavirus-stories-banner.png)](https://forms.gle/JAVU4owbasX8bh289)
 
 
 Archivos Noroestes y del Colegio Whitman están creando un archivo digital de las experiencias de la comunidad durante la pandemia del COVID-19. A como se va reabriendo la comunidad es importante reflexionar  nuestras experiencias durante la pandemia incluyendo nuestras experiencias en el trabajo o escuela,  interacciones sociales y familiares, al igual que los cambios en nuestras rutinas. Todas las sumisiones de los miembros de la comunidad de Walla Walla y otras comunidades regionales son bienvenidas en su idioma preferido. Junto a las asociaciones con Walla Walla Mutual Aid Network y el Comité de Arte Socialmente Comprometido parte de la organización de Walla Walla Immigrants Rights Coalition esperamos resaltar las voces que usualmente no son incluidas en los archivos de nuestra comunidad. En las documentaciones y colecciones de sus historias en los archivos queremos iluminar las desventajas que las comunidades inmigrantes y marginalizadas enfrenta, adicionalmente destacando su fortaleza y sus imprescindibles contribuciones a nuestra comunidad. 
