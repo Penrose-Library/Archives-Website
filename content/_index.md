@@ -44,7 +44,7 @@ toc: false
    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
    <div class="card" style="padding:0">
             <div id="blog-jacket">
-                 <img class="responsive-img" src="/archives/images/img_04.jpg" alt="Arminda Image" id="arminda-image" />
+                 <img class="responsive-img" src="" alt="Arminda Image" id="arminda-image" />
             </div>
             <div class="jacket-title">
                 <a href="https://arminda.whitman.edu/collections/whitman-college-and-northwest-archives">ARMINDA: Digital Archives</a>
