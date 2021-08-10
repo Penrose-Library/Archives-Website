@@ -67,7 +67,7 @@ function getRandomInt(max) {
 $(document).ready(function(){
 
 	//background img
-	$('#arminda-image').attr('src','//library.whitman.edu/images/archive_web/img_0'+getRandomInt(6)+'.jfif');
+	$('#arminda-image').attr('src','/images/archive_web/img_0'+getRandomInt(6)+'.jfif');
 
 });
 </script>
