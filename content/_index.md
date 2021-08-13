@@ -7,7 +7,7 @@ toc: false
 
 
 <div class="splash-title">
-<h2 style="font:2rem">Whitman College & Northwest Archives</h2>
+<h2 style="font:3rem;font-weight: bold;">Whitman College & Northwest Archives</h2>
 </div>
 
 <div id="announcement">{{% announcement file="announcement.md" %}}</div>
