@@ -12,7 +12,7 @@ The following guidelines are required for all patrons working in the Reading Roo
 * No food, beverages, pens, bags or coats are allowed in the Reading Room. These may be stores in the lockers near the main entrance.
 * Researchers can use pencils, paper, laptop computers, tablets or cell phones for taking notes.
 * Archival materials and rare books must be handled with care, and all researchers must follow any handling guidelines dictated by Archives staff.
-* Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff (see Scanning and Reproductions for more information).
+* Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff (see [Scanning and Reproductions](#scanning-and-reproductions) for more information).
 
 ## Local History Research
 
