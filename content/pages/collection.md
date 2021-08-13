@@ -4,7 +4,7 @@ date: 2021-06-29
 ---
 
 
-## **Northwest Manuscripts Collection**
+## Northwest Manuscripts Collection
 
 WCNA acknowledges that we exist upon the traditional homeland of the Cayuse, Umatilla, Walla Walla and Nez Perce Peoples. WCNA collects and solicits donations of manuscripts and records from individuals and organizations of significance to the history and present of the Walla Walla region and the inland Pacific Northwest. Strengths of our manuscript collections include:
 
@@ -16,7 +16,7 @@ WCNA acknowledges that we exist upon the traditional homeland of the Cayuse, Uma
 
 We seek additional records of Walla Walla organizations, associations, and clubs, particularly from underrepresented populations including, but not limited to, women’s organizations, immigrant populations, people of color, the Latinx community, labor unions and organizations, and LGBTQIA+ identified organizations. 
 
-## **College Archives**
+## College Archives
 
 Includes records produced by College offices, student clubs and organizations, and select faculty, staff, and alumni, as well as other materials that document the history of Whitman College (chartered in 1883) and its predecessor, Whitman Seminary (chartered in 1859).
 
@@ -36,26 +36,26 @@ In addition, the following record series are restricted for the following period
 -   Office of the Treasurer (20 years)
 -   Development Office (20 years)
 
-## **Rare Books and Special Collections**
+## Rare Books and Special Collections
 
 A collection of 5000 volumes focusing on Pacific Northwest Americana, including the Myron Eells Library of Northwest History. Other highlights of the collections include finely illustrated texts from the 15th to the 19th centuries, artists books and small press imprints, including the
 [Newland-Johnson Book Arts Collection](https://sherlock.whitman.edu/primo-explore/search?query=lsr31,exact,Whitman%20College%20--%20Special%20Collections%20--%20Newland-Johnson%20Book%20Arts%20Collection&tab=default_tab&search_scope=whitman_lib&vid=WHITC_NEW&offset=0), and the Elbridge H. And Evelyn Clark Stuart Napoleon Collection.
 
-## **Reading Room and Reference Collections**
+## Reading Room and Reference Collections
 
 Includes Whitman College publications such as the College catalog and yearbooks, the Walla Walla *Union-Bulletin* and predecessor newspapers on microfilm, Walla Walla city directories, and other Northwest periodicals and reference materials. 
 
-## **Digitized Collections**
+## Digitized Collections
 
 [ARMINDA](http://arminda.whitman.edu/) is the digital institutional repository of Penrose Library. It includes select digitized materials holdings from the Archives, and other digital collections from college sources.
 
-## **Eells Northwest Collection**
+## Eells Northwest Collection
 
 Part of the circulating collection of Penrose Library, the Eells collection includes books about the history and culture focusing on the Inland Pacific Northwest. Books from the Eells Collection are located on the first floor outside the Archives, and can be found in Sherlock.
 
 ## Searching Our Collections
 
-**[Archives West](https://archiveswest.orbiscascade.org/)**includes finding aids for our College Records and Northwest Manuscripts Collections. Our finding aids provide high-level overviews to the contents of an archival collection, including information about the creator and the scope and contents of the collection.
+**[Archives West](https://archiveswest.orbiscascade.org/)** includes finding aids for our College Records and Northwest Manuscripts Collections. Our finding aids provide high-level overviews to the contents of an archival collection, including information about the creator and the scope and contents of the collection.
 
 **[Archives West](https://archiveswest.orbiscascade.org/)** also includes finding aids for archival repositories in the Western United States. To limit your search to Whitman collections only, use the search bar on the left hand side of the page.
 
