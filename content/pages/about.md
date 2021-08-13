@@ -1,5 +1,5 @@
 ---
-title: About Archives
+title: About the Archives
 date: 2021-07-29
 ---
 ## Mission and History
@@ -14,9 +14,9 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 |                                                                                      |                                                                                                                                      |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png)     | Ben Murphy Archivist & Head of Digital Services [murphybp@whitman.edu](mailto:murphybp@whitman.edu) [509-526-4731](tel:+15095274731) |
-| ![Dana Bronson](/archives/images/DANA-BRONSON_2019.png) | Dana Bronson Associate Archivist [bronsodm@whitman.edu](mailto:bronsodm@whitman.edu) [509-527-4703](tel:+15095274703)                |
-| ![Joel Gaytan](/archives/images/JOEL-GAYTAN_2019.png)   | Joel Gaytan Archives Assistant [gaytanj@whitman.edu](mailto:gaytanj@whitman.edu) [(509) 527-5922](tel:+15095275922)                  |
+| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png)     | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) [509-526-4731](tel:+15095274731) |
+| ![Dana Bronson](/archives/images/DANA-BRONSON_2019.png) | Dana Bronson <br/> Associate Archivist <br/> [bronsodm@whitman.edu](mailto:bronsodm@whitman.edu) [509-527-4703](tel:+15095274703)                |
+| ![Joel Gaytan](/archives/images/JOEL-GAYTAN_2019.png)   | Joel Gaytan <br/> Archives Assistant <br/> [gaytanj@whitman.edu](mailto:gaytanj@whitman.edu) [(509) 527-5922](tel:+15095275922)                  |
 
 ## Collection Development Policy
 

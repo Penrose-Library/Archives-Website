@@ -7,7 +7,7 @@ toc: false
 
 
 <div class="splash-title">
-<h2>Whitman College & Northwest Archives</h2>
+<h2 style="font:2rem">Whitman College & Northwest Archives</h2>
 </div>
 
 <div id="announcement">{{% announcement file="announcement.md" %}}</div>
@@ -24,9 +24,9 @@ toc: false
      <p>The Whitman College and Northwest Archives is currently closed to the public.</p>
      <p>We are open to Whitman students, faculty and staff who are approved to be on campus, by appointment only. For more details, see our Summer 2021 Access Policy.</p>
      
-     
+   For questions or to schedule an appointment, please email us.
+  
   - ***Hours***: Monday-Friday, 9am-noon and 1-4pm
-  - For questions or to schedule an appointment, please email us.
   - ***Email***: Archives@whitman.edu 
   - ***Phone number***: 509-527-5922
   - ***Location***: Ground floor of Penrose Library
@@ -43,16 +43,17 @@ toc: false
     </div>
    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
    <div class="card" style="padding:0">
-            <div id="blog-jacket">
-                 <img class="responsive-img" src="" alt="Arminda Image" id="arminda-image" />
-            </div>
-            <div class="jacket-title">
-                <a href="https://arminda.whitman.edu/collections/whitman-college-and-northwest-archives">ARMINDA: Digital Archives</a>
-                <p>Explore digitized archival collections in ARMINDA, our Institutional Repository. Content includes College and regional publications, photographs, manuscripts, and more.</p>
-            </div>
-        </div>
-        </div>
+      <div id="blog-jacket">
+       <h3 class="center">Digital Collections</h3>
+       <img class="responsive-img" src="" alt="Arminda Image" id="arminda-image" />
+      </div>
+      <div class="jacket-title">
+       <a href="https://arminda.whitman.edu/collections/whitman-college-and-northwest-archives">ARMINDA: Digital Archives</a>
+       <p>Explore digitized archival collections in ARMINDA, our Institutional Repository. Content includes College and regional publications, photographs, manuscripts, and more.</p>
+      </div>
+    </div>
    </div>
+  </div>
 </div>
 </div>
 </div>
