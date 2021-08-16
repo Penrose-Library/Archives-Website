@@ -1,6 +1,7 @@
 ---
 title: Explore our Collections
 date: 2021-06-29
+url: explore-collections
 ---
 
 
