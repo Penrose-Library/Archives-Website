@@ -2,9 +2,10 @@
 title: Walla Walla Coronavirus Stories
 date: 2021-08-05T23:00:37.269Z
 ---
-<div class="pull-left">
 
 ### Documenting our Lives during the COVID-19 Pandemic
+
+<div class="pull-left" style="padding-right:0.3rem">
 
 [![click to submit stories to Whitman College and Northwest Archives for Walla Walla Covid Stories](/archives/images/Coronavirus-stories-banner_3.png)](https://forms.gle/V4geLUexVSN6Qjt27)
 
@@ -56,7 +57,7 @@ If you interview other people in the course of your documentation, or if any mat
 This project has been inspired by, and borrowed from, ideas generated from [Documenting Your Community’s Experience of COVID-19: A Resource List](https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit?pli=1). In particular, we acknowledge the work of Atkins [Library Special Collections & University Archives](https://library.uncc.edu/contribute-your-stories-covid-19-outbreak) at the UNC Charlotte.
 </div>
 
-<div class="pull-right">
+<div class="pull-right" style="padding-left:0.3rem">
 
 [![](/archives/images/Spanish-Coronavirus-stories-banner.png)](https://forms.gle/JAVU4owbasX8bh289)
 
