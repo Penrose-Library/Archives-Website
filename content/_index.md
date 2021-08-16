@@ -24,7 +24,7 @@ toc: false
      <p>The Whitman College and Northwest Archives is currently closed to the public.</p>
      <p>We are open to Whitman students, faculty and staff who are approved to be on campus, by appointment only. For more details, see our Summer 2021 Access Policy.</p>
      
-   For questions or to schedule an appointment, please email us.
+   For questions or to schedule an appointment, please email or call us.
   
   - ***Hours***: Monday-Friday, 9am-noon and 1-4pm
   - ***Email***: Archives@whitman.edu 
