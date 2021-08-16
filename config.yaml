@@ -19,7 +19,7 @@ imaging:
 
 params:
   description: 
-  homeMetaContent: Penrose Library NG website. Deveopment. Do not use
+  homeMetaContent: Whitman College and Northwest Archives Website
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page.
   # For more date formats see https://gohugo.io/functions/format/
   MatomoSiteID: 5
