@@ -8,7 +8,7 @@ The Whitman College and Northwest Archives curates materials that document the h
 
 Archival Collections at Whitman have a long history. A significant portion of our Northwest History collections were donated by Myron Eells in 1907. For a time, these collections were managed as part of the Whitman Museum. Under the direction of College Librarian Ruth Reynolds, Northwest Manuscript materials as well as College Records began to be stored and processed in Penrose Library. Dedicated staff were assigned to manage the Northwest Collections and Archival Materials beginning in the 1960s.
 
-Today, the Archives houses over 4800 linear feet of archival material and a collection of approximately 5000 rare books. See our [Explore Collections](https://library.whitman.edu/archives/explore-collections/) page for more information on collections.
+Today, the Archives houses over 4800 linear feet of archival material and a collection of approximately 5000 rare books. See our [Explore Collections](/archives/collection/) page for more information on collections.
 
 ## Archives Staff
 
