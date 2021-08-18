@@ -54,6 +54,9 @@ menu:
     - name: Digital Projects
       weight: 5
       url: /digital-projects/
+    - name: <--Back to Penrose Library
+      weight: 6
+      url: /
       
 
 markup:
