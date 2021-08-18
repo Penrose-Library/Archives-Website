@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - staging  # Set a branch to deploy
 
 jobs:
   deploy:
@@ -28,6 +28,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: Penrose-Library/PenroseLibrary-Web
-          publish_branch: main
+          publish_branch: staging
           publish_dir: ./public
           destination_dir: static/archives
