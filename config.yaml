@@ -44,7 +44,7 @@ menu:
       url: /about/
       weight: 1
     - name: Explore our Collections
-      url: /collection/
+      url: /explore-collections/
       weight: 2
     - name: Information for Researchers
       weight: 3
