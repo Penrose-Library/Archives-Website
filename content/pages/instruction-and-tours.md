@@ -1,6 +1,7 @@
 ---
 title: Instruction and Tours
 date: 2021-08-05T22:54:21.944Z
+aliases: instruction
 ---
 ## Class Sessions in the Archives
 
