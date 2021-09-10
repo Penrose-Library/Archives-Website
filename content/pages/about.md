@@ -1,7 +1,7 @@
 ---
 title: About the Archives
 date: 2021-07-29
-alias: about-archives
+aliases: about-archives
 ---
 ## Mission and History
 
