@@ -14,10 +14,4 @@ For Whitman Students, Faculty and Staff:
 
 For non-Whitman researchers:
 
-* Penrose Library is not currently open to the public, but we anticipate allowing research visits, by appointment, beginning sometime in September.
-* Proof of vaccination is required for access to Penrose Library, either in the form of a vaccination card or digital photo of a vaccination card.
-* Information on how to make appointments will be available later in September.
-* Masks are required while using the Archives.
-* Hand sanitizer may be used, but hands must be completely dry before handling archival materials or books.
-* Pencils, paper, phones, and computers are allowed in the Archives.
-* Food, beverages, bags, pens and all other items must be stored while in the Archives.
+* Penrose Library is not currently open to the public. Please refer to our website for any changes to this policy.
