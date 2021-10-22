@@ -1,14 +1,16 @@
 name: github pages
 
-on:
-  push:
-    branches:
-      - main  # Set a branch to deploy
+on: push
 
 jobs:
   deploy:
     runs-on: ubuntu-20.04
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
       - uses: actions/checkout@v2
         with:
           submodules: false  # Fetch Hugo themes (true OR recursive)
@@ -28,6 +30,6 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: Penrose-Library/PenroseLibrary-Web
-          publish_branch: main
+          publish_branch: ${{ steps.extract_branch.outputs.branch }}
           publish_dir: ./public
           destination_dir: static/archives
