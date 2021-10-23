@@ -33,3 +33,4 @@ jobs:
           publish_branch: ${{ steps.extract_branch.outputs.branch }}
           publish_dir: ./public
           destination_dir: static/archives
+          
