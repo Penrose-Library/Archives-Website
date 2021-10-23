@@ -1,4 +1,4 @@
-baseURL: https://penrose.whitman.edu/archives
+baseURL: https://library.whitman.edu/archives
 languageCode: en-us
 defaultContentLanguage: en
 title: Whitman College and Northwest Archives
@@ -22,7 +22,8 @@ params:
   homeMetaContent: Whitman College and Northwest Archives Website
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to Cloudflare Page.
   # For more date formats see https://gohugo.io/functions/format/
-  MatomoSiteID: 5
+  MatomoSiteID: 6
+  CloudflareAnalytics: 4152c068e3194d95b1cf83c0e975b720
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: false
@@ -43,7 +44,7 @@ menu:
       url: /about/
       weight: 1
     - name: Explore our Collections
-      url: /collection/
+      url: /explore-collections/
       weight: 2
     - name: Information for Researchers
       weight: 3
@@ -56,7 +57,7 @@ menu:
       url: /digital-projects/
     - name: <--Back to Penrose Library
       weight: 6
-      url: /
+      url: ../
       
 
 markup:
