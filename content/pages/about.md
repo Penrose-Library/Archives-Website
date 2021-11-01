@@ -27,10 +27,9 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 The Whitman College and Northwest Archives (WCNA) curates materials that document the history, culture, and current state of Whitman College and the Walla Walla region, as well as rare books and other special collections housed in Penrose Library. WCNA collects, preserves, provides access to, and promotes the use of these materials for teaching, learning, and research.
 
-The Archives’ Collection Development Policy is available here \[add link].
 
 ## Donations and Transfers
 
-The Archives selectively accepts gifts of regional manuscript collections and rare books, in accordance with our Collection Development policy \[add link]. Donations require completing a [Deed of Gift](http://works.whitman.edu/archives-deed-of-gift). Questions about donations can be directed to Ben Murphy.
+The Archives selectively accepts gifts of regional manuscript collections and rare books. Donations require completing a [Deed of Gift](http://works.whitman.edu/archives-deed-of-gift). Questions about donations can be directed to Ben Murphy.
 
 Transfers of College Records from offices on campus are accepted when accompanied by a [Records Transfer Form](http://works.whitman.edu/archives-records-transfer). Questions about College Records can be directed to Dana Bronson.
