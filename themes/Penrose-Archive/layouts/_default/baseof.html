@@ -6,7 +6,11 @@
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
     <div class="wrapper">
-      {{ partial "header.html" . }}
+      {{ if .IsHome }}
+        {{ partial "header.html" . }}
+      {{ else }}
+        {{ partial "header-secondary.html" . }}
+      {{ end }}
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
