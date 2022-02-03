@@ -38,7 +38,7 @@ toc: false
     <div class="card" style="font-size:0.8rem">
     <h3 class="center">Search Whitman College and Northwest Archives Finding Aids</h3>
      <form action="https://nwda-db.orbiscascade.org/search.php" method="get" target="_blank"><input id="searchValue" name="q" type="text" class="form-control no-up-margin"> <input id="searchSubmit" class="btn" type="submit" value="search"> <input id="r" name="r" type="hidden" value="waww"> </form>
-     <p style="margin-top:0.5rem">To search Finding Aids for our archival and manuscript collections, visit Archives West. For more information about our collections, visit our <a href="/archives/collection/">Explore our Collections</a> page.</p>
+     <p style="margin-top:0.5rem">To search Finding Aids for our archival and manuscript collections, visit Archives West. For more information about our collections, visit our <a href="/archives/explore-collections">Explore our Collections</a> page.</p>
     </div>
     </div>
    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
