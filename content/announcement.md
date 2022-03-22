@@ -1,0 +1,1 @@
+Starting March 28, the Whitman College and Northwest Archives will be open to the public by appointment only. See our Access Policy[https://library.whitman.edu/archives/access-policy/] for more details.
