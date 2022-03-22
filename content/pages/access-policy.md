@@ -14,7 +14,7 @@ For non-Whitman researchers:
 * Visiting researchers are required to make an appointment to use the Archives.
 * Open hours are 9am-noon and 1-4pm, Monday through Friday.
 * Walk-in researchers without an appointment will be asked to make an appointment to return in the future.
-* Appointments can be made on this calendar or by calling 509-527-5922.
+* [Appointments can be made online](https://wcna.youcanbook.me/) or by calling 509-527-5922.
 * **Please note: these policies may change with little or no advance notice.**
 
 Policies for using the Archives:
