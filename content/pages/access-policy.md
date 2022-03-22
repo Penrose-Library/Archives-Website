@@ -1,17 +1,23 @@
 ---
-title: Archives Access Policy, Fall 2021
+title: Archives Access Policy, Spring 2022
 date: 2021-08-16T18:53:53.287Z
 url: access-policy
 ---
 
 For Whitman Students, Faculty and Staff:
 
-* In-person research visits are available between the hours of 9am-noon and 1-4pm, Monday through Friday. Appointments are encouraged but not required. Email [archives@whitman.edu](mailto:archives@whitman.edu) to make an appointment or with questions.
-* Masks are required while using the Archives.
-* Hand sanitizer may be used, but hands must be completely dry before handling archival materials or books.
-* Pencils, paper, phones, and computers are allowed in the Archives.
-* Food, beverages, bags, pens and all other items must be stored while in the Archives.
+* No appointments needed.
+* Open hours are 9am-noon and 1-4pm, Monday through Friday.
 
 For non-Whitman researchers:
+* Vaccinations are required to access Whitman campus facilities.
+* Visiting researchers are required to make an appointment to use the Archives.
+* Open hours are 9am-noon and 1-4pm, Monday through Friday.
+* Walk-in researchers without an appointment will be asked to make an appointment to return in the future.
+* Appointments can be made on this calendar or by calling 509-527-5922.
+* **Please note: these policies may change with little or no advance notice.**
 
-* Penrose Library is not currently open to the public. Please refer to our website for any changes to this policy.
+Policies for using the Archives:
+* Masks are strongly encouraged but not required.
+* Pencils, paper, phones, and computers are allowed in the Archives.
+* Food, beverages, bags, pens and all other items must be stored while in the Archives.
