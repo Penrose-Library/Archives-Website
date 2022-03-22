@@ -10,7 +10,7 @@ toc: false
 <h2 style="font:3rem;font-weight: bold;">Whitman College & Northwest Archives</h2>
 </div>
 
-<div id="announcement">{{% announcement file="announcement.md" %}}</div>
+<div id="announcement">{{% include file="announcement.md" %}}</div>
 
 </div>
 
@@ -21,17 +21,9 @@ toc: false
     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
     <div class="card"  style="font-size:0.8rem">
     <h3 class="center">Plan your visit</h3>
-     <p>The Whitman College and Northwest Archives is currently closed to the public.</p>
-     <p>We are open to Whitman students, faculty and staff who are approved to be on campus. For more details, see our <a href="/archives/access-policy">Fall 2021 Access Policy</a>.</p>
-     
-   For questions or to schedule an appointment, please email or call us.
-  
-  - ***Hours***: Monday-Friday, 9am-noon and 1-4pm
-  - ***Email***: Archives@whitman.edu 
-  - ***Phone number***: 509-527-5922
-  - ***Location***: Ground floor of Penrose Library
 
- 
+     {{% include file="planyourvisit.md" %}}
+
     </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
@@ -60,7 +52,7 @@ toc: false
 
 
 <script>
-var rad=Math.floor((Math.random() * 5) + 1); 
+var rad=Math.floor((Math.random() * 5) + 1);
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max))+1;
 }

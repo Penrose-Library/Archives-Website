@@ -28,6 +28,16 @@ collections:
         fields:
         - {label: "Publish Date", name: "date", widget: "datetime"}
         - {label: "Body", name: "body", widget: "markdown"}
+  - name: "plan your visit"
+    label: "planyourvisit"
+    create: false
+    slug: "{{slug}}"
+    files:
+      - file: "content/planyourvisit.md"
+        label: "Plan your Visit"
+        name: "planyourvisit"
+        fields:
+        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
   - name: "Announcement"
     label: "announcement"
     create: false
@@ -37,4 +47,4 @@ collections:
         label: "Homepage Announement"
         name: "announcement"
         fields:
-        - {label: "Body", name: "body", widget: "html"}
+        - {label: "Body", name: "body", widget: "markdown", modes: "raw"}
