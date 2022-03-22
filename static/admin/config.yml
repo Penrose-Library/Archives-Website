@@ -22,7 +22,7 @@ collections:
     create: false
     slug: "{{slug}}"
     files:
-      - file: "content/_index.md"
+      - file: "content/_index.html"
         label: "Home Page"
         name: "home"
         fields:
@@ -33,7 +33,7 @@ collections:
     create: false
     slug: "{{slug}}"
     files:
-      - file: "content/planyourvisit.md"
+      - file: "content/planyourvisit.html"
         label: "Plan your Visit"
         name: "planyourvisit"
         fields:
@@ -43,7 +43,7 @@ collections:
     create: false
     slug: "{{slug}}"
     files:
-      - file: "content/announcement.md"
+      - file: "content/announcement.html"
         label: "Homepage Announement"
         name: "announcement"
         fields:

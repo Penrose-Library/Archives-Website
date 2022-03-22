@@ -1,9 +1,0 @@
- <p>The Whitman College and Northwest Archives is currently closed to the public.</p>
-     <p>We are open to Whitman students, faculty and staff who are approved to be on campus. For more details, see our <a href="/archives/access-policy">Spring 2022 Access Policy</a>.</p>
-
-   For questions or to schedule an appointment, please email or call us.
-
-  - ***Hours***: Monday-Friday, 9am-noon and 1-4pm
-  - ***Email***: Archives@whitman.edu
-  - ***Phone number***: 509-527-5922
-  - ***Location***: Ground floor of Penrose Library
