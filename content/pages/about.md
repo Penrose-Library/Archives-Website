@@ -9,23 +9,21 @@ The Whitman College and Northwest Archives curates materials that document the h
 
 Archival Collections at Whitman have a long history. A significant portion of our Northwest History collections were donated by Myron Eells in 1907. For a time, these collections were managed as part of the Whitman Museum. Under the direction of College Librarian Ruth Reynolds, Northwest Manuscript materials as well as College Records began to be stored and processed in Penrose Library. Dedicated staff were assigned to manage the Northwest Collections and Archival Materials beginning in the 1960s.
 
-Today, the Archives houses over 4800 linear feet of archival material and a collection of approximately 5000 rare books. See our [Explore Collections](/archives/explore-collections/) page for more information on collections.
+Today, the Archives houses over 4800 linear feet of archival material and a collection of approximately 5000 rare books. See our [Explore Collections](/archives/explore-collections/) page for more information on collections. 
 
 ## Archives Staff
 
 <div class="archive_staff">
 
-|                                                                                      |                                                                                                                                      |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png)     | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) <br/>[509-526-4731](tel:+15095274731) |
-
+|                                                     |                                                                                                                                                       |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png) | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) <br/>[509-526-4731](tel:+15095274731) |
 
 </div>
 
 ## Collection Development Policy
 
 The Whitman College and Northwest Archives (WCNA) curates materials that document the history, culture, and current state of Whitman College and the Walla Walla region, as well as rare books and other special collections housed in Penrose Library. WCNA collects, preserves, provides access to, and promotes the use of these materials for teaching, learning, and research.
-
 
 ## Donations and Transfers
 
