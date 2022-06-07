@@ -1,5 +1,5 @@
 ---
-title: Archives Access Policy, Spring 2022
+title: Archives Access Policy, Summer 2022
 date: 2021-08-16T18:53:53.287Z
 url: access-policy
 ---
