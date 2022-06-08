@@ -1,9 +1,10 @@
 ---
 title: Instruction and Tours
 date: 2021-08-05T22:54:21.944Z
-aliases: 
+aliases:
   - instruction
   - policies-and-forms
+url: instruction-and-tours
 ---
 ## Class Sessions in the Archives
 
@@ -34,6 +35,7 @@ Recent honors theses written using the Archives include:
 * Delaney Hannon, [The Whitman legend: the intertwining of history and memorial in the narrative of Marcus and Narcissa Whitman](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71258675540001451), 2017
 * Bassel Jamali, [Stephen B.L. Penrose Jr. and the case of the Palestinian refugees](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71299543660001451), 2019
 * Jacqueline Rees-Mikul, [The disenchanted missionary : unraveling the colonial fantasies of Whitman College](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71286178900001451), 2016
+* Ree Robson, [Closet, community or bubble? : queer life at Whitman College from 1975 to 2011](https://sherlock.whitman.edu/permalink/f/19gob7d/CP71328860270001451), 2020
 
 This is just a small sample of potential topics. If you would like to learn more, please email [archives@whitman.edu](mailto:archvies@whitman.edu), or stop in during our open hours!
 
