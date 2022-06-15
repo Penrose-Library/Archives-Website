@@ -1,14 +1,16 @@
 ---
 title: Information for Researchers
 date: 2021-08-02
+url: research-services
 ---
 ## Reading Room Procedures
 
-The Reading Room is open to the public from 9am-4pm, Monday through Friday. Appointments are encouraged, but not required. Appointments can be made by emailing archives@whitman.edu or calling 509-527-5922.
+The Reading Room is open to the public from 1-4pm, Monday through Friday. Appointments are required. [Appointments can be made online](https://wcna.youcanbook.me/) or by calling 509-527-5922. 
 
 The following guidelines are required for all patrons working in the Reading Room:
 
-* All researchers must fill out a Researcher Application form once per year, and sign the visitor log
+* Masks and proof of COVID-19 vaccination are required for using the Archives.
+* All researchers must fill out a Researcher Application form once per year, and sign the visitor log.
 * No food, beverages, pens, bags or coats are allowed in the Reading Room. These may be stores in the lockers near the main entrance.
 * Researchers can use pencils, paper, laptop computers, tablets or cell phones for taking notes.
 * Archival materials and rare books must be handled with care, and all researchers must follow any handling guidelines dictated by Archives staff.
