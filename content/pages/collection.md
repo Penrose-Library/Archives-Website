@@ -66,10 +66,10 @@ Part of the circulating collection of Penrose Library, the Eells collection incl
 After you search in Sherlock, you can use the dropdown menu to limit your results to “Special Collections.” This will limit your results to books and finding aids located in the Archives.
 
 
-<form onsubmit="searchevent();" id="simple" class="formtab1" name="searchForm" method="get" action="//sherlock.whitman.edu/primo_library/libweb/action/dlSearch.do" enctype="application/x-www-form-urlencoded; charset=utf-8">
+<form onsubmit="searchevent();" id="simple" class="formtab1" name="searchForm" method="get" action="//sherlock.whitman.edu/discovery/search?vid=01ALLIANCE_WHITC:WHITC_NEWo" enctype="application/x-www-form-urlencoded; charset=utf-8">
 							<!-- Customizable Parameters  -->
-								<input type="hidden" name="institution" value="WHITC">
-								<input type="hidden" name="vid" value="WHITC_NEW">
+								<input type="hidden" name="institution" value="01ALLIANCE_WHITC">
+								<input type="hidden" name="vid" value="01ALLIANCE_WHITC:WHITC_NEW">
 								<input type="hidden" name="tab" value="default_tab">
 								<input type="hidden" name="mode" value="Basic">
 							<!-- Fixed parameters -->
