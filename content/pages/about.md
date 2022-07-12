@@ -18,7 +18,7 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 |                                                     |                                                                                                                                                       |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png) | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) <br/>[509-527-4731](tel:+15095274731) |
+| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png) | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) <br/>[509-526-4731](tel:+15095264731) |
 | West Bales <br/> Archives Assistant <br/> [skrobiwd@whitman.edu](mailto:skrobiwd@whitman.edu) <br/>[509-527-5922](tel:+15095275922) |
 
 </div>
