@@ -1,13 +1,13 @@
 ---
-title: Archives Access Policy, Summer 2022
+title: Archives Access Policy, Fall 2022
 date: 2021-08-16T18:53:53.287Z
 url: access-policy
 ---
-\[Updated June 8th 2022]
+\[Updated August 31st 2022]
 
 **For Whitman Students, Faculty and Staff:**
 
-* No appointments needed.
+*  Appointments are encouraged, but not required.
 * Open hours are 9am-noon and 1-4pm, Monday through Friday.
 
 **For non-Whitman researchers:**
