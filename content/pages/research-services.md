@@ -32,7 +32,7 @@ Researchers are allowed to reproduce materials using personal cameras or cell ph
 
 The time and resources required to create photocopies or scans depends on the nature and volume of the request, and the physical condition of the material. As such, **reproduction requests will be completed at an hourly rate of $25 per hour, with a minimum charge of $10.** Select paper-based material that can be photocopied or scanned in bulk can be done for $0.10 per page.
 
-Please contact [archives@whitman.edu](mailto:archives@whitamn.edu) for estimates on reproduction fees.
+Please contact [archives@whitman.edu](mailto:archives@whitman.edu) for estimates on reproduction fees.
 
 ## Permissions to Publish
 
