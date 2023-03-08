@@ -1,9 +1,9 @@
 ---
-title: Archives Access Policy, Fall 2022
+title: Archives Access Policy, Spring 2023
 date: 2021-08-16T18:53:53.287Z
 url: access-policy
 ---
-\[Updated October 25, 2022]
+\[Updated March 8. 2023]
 
 **For Whitman Students, Faculty and Staff:**
 
