@@ -16,17 +16,13 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 <div class="archive_staff">
 
-|                                                     |                                                                                                                                                       |
-| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Ben Murphy](/archives/images/BEN-MURPHY_2019.png) | Ben Murphy <br/> Archivist & Head of Digital Services <br/> [murphybp@whitman.edu](mailto:murphybp@whitman.edu) <br/>[509-526-4731](tel:+15095264731) |
-
-
+|     |                                                                                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     | Emily Pearson <br/> Interim Archivist & Head of Digital Services <br/> [pearsome@whitman.edu](mailto:pearsome@whitman.edu) <br/>[](tel:+15095275918)[509-527-5918](tel:+15095275918) |
 
 |     |                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 |     | River Freemont <br/> Associate Archivist <br/> [freemonr@whitman.edu](mailto:freemonr@whitman.edu) <br/>[509-526-4703](tel:+15095264703) |
-
-
 
 |     |                                                                                                                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------- |
