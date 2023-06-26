@@ -5,16 +5,18 @@ url: research-services
 ---
 ## Reading Room Procedures
 
-The Reading Room is open to the public from 1-4pm, Monday through Friday. Appointments are required. [Appointments can be made online](https://wcna.youcanbook.me/) or by calling 509-527-5922. 
+The Reading Room is open from 9am-noon, 1pm-4pm, Monday through Friday. Appointments are encouraged but not required. [Appointments can be made online](https://wcna.youcanbook.me/).
 
 The following guidelines are required for all patrons working in the Reading Room:
 
-* Masks and proof of COVID-19 vaccination are required for using the Archives.
+* Masks are required for patrons using materials in the Reading Room.
+* * Masks are available if needed.
 * All researchers must fill out a Researcher Application form once per year, and sign the visitor log.
-* No food, beverages, pens, bags or coats are allowed in the Reading Room. These may be stores in the lockers near the main entrance.
+* No food, beverages, pens, bags or coats are allowed in the Reading Room. These may be stored in the cubbies near the main entrance.
 * Researchers can use pencils, paper, laptop computers, tablets or cell phones for taking notes.
 * Archival materials and rare books must be handled with care, and all researchers must follow any handling guidelines dictated by Archives staff.
-* Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff (see [Scanning and Reproductions](#scanning-and-reproductions) for more information).
+
+Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff (see [Scanning and Reproductions](https://library.whitman.edu/archives/research-services/#scanning-and-reproductions) for more information).
 
 ## Local History Research
 
