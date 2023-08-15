@@ -36,6 +36,6 @@ The Whitman College and Northwest Archives (WCNA) curates materials that documen
 
 ## Donations and Transfers
 
-The Archives selectively accepts gifts of regional manuscript collections and rare books. Donations require completing a [Deed of Gift](http://works.whitman.edu/archives-deed-of-gift). Questions about donations can be directed to Emily Pearson.
+The Archives selectively accepts gifts of regional manuscript collections and rare books. Donations require completing a [Deed of Gift](http://works.whitman.edu/archives-deed-of-gift). Questions about donations can be directed to Alexis Hickey.
 
-Transfers of College Records from offices on campus are accepted when accompanied by a [Records Transfer Form](http://works.whitman.edu/archives-records-transfer). Questions about College Records can be directed to Emily Pearson. We are not looking for donations of Yearbooks (Waiilatpu) or Pioneer Newspapers as we have complete collections.
+Transfers of College Records from offices on campus are accepted when accompanied by a [Records Transfer Form](http://works.whitman.edu/archives-records-transfer). Questions about College Records can be directed to Alexis Hickey. We are not looking for donations of Yearbooks (Waiilatpu) or Pioneer Newspapers as we have complete collections.
