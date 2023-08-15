@@ -15,7 +15,7 @@ Faculty are encouraged to incorporate materials from the Archives into their tea
 * An assignment designed around collections that requires out-of-class student visits to the archives
 * An entire class or syllabus built around archival collections
 
-In all these scenarios, our instruction focuses both on enabling students to find and use collections, and developing their skills in analyzing and interpreting primary sources. If you are interested in exploring any of these options, email Ben Murphy ([murphybp@whitman.edu](mailto:murphybp@whitman.edu)).
+In all these scenarios, our instruction focuses both on enabling students to find and use collections, and developing their skills in analyzing and interpreting primary sources. If you are interested in exploring any of these options, email Alexis Hickey ([hickeya@whitman.edu](mailto:hickeya@whitman.edu)).
 
 ## Information for Students
 
