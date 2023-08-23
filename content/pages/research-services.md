@@ -9,9 +9,7 @@ The Reading Room is open from 9am-noon, 1pm-4pm, Monday through Friday. Appointm
 
 The following guidelines are required for all patrons working in the Reading Room:
 
-* Masks are required for patrons using materials in the Reading Room.
-
-  * Masks are available if needed.
+* Masks are optional for patrons using materials in the Reading Room. If you would prefer that Archives staff wear masks during your visit, please inform us when scheduling your appointment. 
 * All researchers must fill out a Researcher Application form once per year, and sign the visitor log.
 * No food, beverages, pens, bags or coats are allowed in the Reading Room. These may be stored in the cubbies near the main entrance.
 * Researchers can use pencils, paper, laptop computers, tablets or cell phones for taking notes.
