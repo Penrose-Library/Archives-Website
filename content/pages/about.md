@@ -16,9 +16,9 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 <div class="archive_staff">
 
-|     |                                                                                                                                                                           |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | Alexis Hickey<br/> Archivist & Head of Special Collections <br/> [hickeya@whitman.edu](mailto:hickeya@whitman.edu) <br/>[509-526-5922](tel:+15095265922) |
+|     |                                                                                                                                                          |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | Alexis Hickey<br/> Archivist & Head of Special Collections <br/> [hickeya@whitman.edu](mailto:hickeya@whitman.edu) <br/>[509-526-4731](tel:+15095264731) |
 
 |     |                                                                                                                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
