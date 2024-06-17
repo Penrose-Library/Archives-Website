@@ -8,7 +8,7 @@ url: access-policy
 <!--StartFragment-->
 
 * Open hours are 9am-noon and 1pm-4pm, Monday through Friday.
-* Appointments are encouraged, but not required.
+* Appointments are required and must be made at least 24 hours in advance.
 
   * Appointments allow us time to have materials prepared for you in advance and to locate other relevant resources.
 * [Appointments can be made online](https://wcna.youcanbook.me/); by emailing [archives@whitman.edu](mailto:archives@whitman.edu); or calling 509-527-5922.
