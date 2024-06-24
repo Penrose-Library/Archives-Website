@@ -1,9 +1,9 @@
 ---
-title: Archives Access Policy, Summer 2023
+title: Archives Access Policy, Summer 2024
 date: 2021-08-16T18:53:53.287Z
 url: access-policy
 ---
-\[Updated June 26. 2023]
+\[Updated June 24. 2024]
 
 <!--StartFragment-->
 
