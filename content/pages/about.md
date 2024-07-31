@@ -14,21 +14,15 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 
 ## Archives Staff
 
-<div class="archive_staff">
+
 
 |     |                                                                                                                                                          |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | Alexis Hickey<br/> Archivist & Head of Special Collections <br/> [hickeya@whitman.edu](mailto:hickeya@whitman.edu) <br/>[509-526-4731](tel:+15095264731) |
 
-|     |                                                                                                                                          |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-|     | River Freemont <br/> Associate Archivist <br/> [freemonr@whitman.edu](mailto:freemonr@whitman.edu) <br/>[509-526-4703](tel:+15095264703) |
-
-|     |                                                                                                                                     |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------- |
-|     | West Bales <br/> Archives Assistant <br/> [skrobiwd@whitman.edu](mailto:skrobiwd@whitman.edu) <br/>[509-527-5922](tel:+15095275922) |
-
-</div>
+|     |     |
+| --- | --- |
+|     |     |
 
 ## Collection Development Policy
 
