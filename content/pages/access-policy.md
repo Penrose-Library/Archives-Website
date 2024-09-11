@@ -11,7 +11,7 @@ url: access-policy
 * Appointments are required and must be made at least 24 hours in advance.
 
   * Appointments allow us time to have materials prepared for you in advance and to locate other relevant resources.
-* [Appointments can be made online](https://whitman.libcal.com/appointments); by emailing [archives@whitman.edu](mailto:archives@whitman.edu); or calling 509-527-5922.
+* [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment); by emailing [archives@whitman.edu](mailto:archives@whitman.edu); or calling 509-527-5922.
 * Please note: these policies may change with little or no advance notice.
 
 Policies for using the Archives:
