@@ -5,7 +5,7 @@ url: research-services
 ---
 ## Reading Room Procedures
 
-The Reading Room is open from 9am-noon, 1pm-4pm, Monday through Friday. Appointments are required and must be made at least 24 hours in advance. [Appointments can be made online](https://wcna.youcanbook.me/).
+The Reading Room is open from 9am-noon, 1pm-4pm, Monday through Friday. Appointments are required and must be made at least 24 hours in advance. [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment).
 
 The following guidelines are required for all patrons working in the Reading Room:
 
