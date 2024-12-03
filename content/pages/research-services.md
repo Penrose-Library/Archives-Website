@@ -27,6 +27,8 @@ Whitman students, faculty and staff can access the *Union-Bulletin* between 19
 
 ## Scanning and Reproductions
 
+At this time, we are not accepting requests for scanning or reproduction due to short staffing. 
+
 Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff. In compliance with copyright law of the United States (Title 17, United States Code), any copies must not be “used for any purpose other than private study, scholarship or research.” By allowing for reproduction, WCNA does not grant permission to publish.
 
 **Fees for Reproductions:** Copies or digital scans may be made by Archives staff for the convenience of the individual user in support of research and teaching. Fees are waived for Whitman students, staff and faculty. Other fees may be waived at the discretion of the Archivist.
