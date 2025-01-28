@@ -20,10 +20,9 @@ Today, the Archives houses over 4800 linear feet of archival material and a coll
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     | Alexis Hickey<br/> Archivist & Head of Special Collections <br/> [hickeya@whitman.edu](mailto:hickeya@whitman.edu) <br/>[509-526-4731](tel:+15095264731) |
 
-|     |     |
-| --- | --- |
-|     |     |
-
+|     |                                                                                                                                                          |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | Will Allen<br/> Collections Archivist <br/> [allenw@whitman.edu](mailto:allenw@whitman.edu) <br/> |
 ## Collection Development Policy
 
 The Whitman College and Northwest Archives (WCNA) curates materials that document the history, culture, and current state of Whitman College and the Walla Walla region, as well as rare books and other special collections housed in Penrose Library. WCNA collects, preserves, provides access to, and promotes the use of these materials for teaching, learning, and research.
