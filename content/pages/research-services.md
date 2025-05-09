@@ -5,7 +5,7 @@ url: research-services
 ---
 ## Reading Room Procedures
 
-The Reading Room is open 9 a.m.-noon & 1-4 p.m., Monday through Friday. Drop-in hours are available, pending staff availability, Tuesday-Thursday 9 a.m.-noon & 1-4 p.m.  Appointments are required on Monday and Friday and are preferred Tuesday-Thursday. Appointments must be made at least 24 hours in advance. [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment).
+Drop-in hours are available, pending staff availability, Tuesday-Thursday 9 a.m.-noon & 1-4 p.m.  Appointments are required on Monday and Friday and are preferred Tuesday-Thursday. Appointments must be made at least 24 hours in advance. [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment).
 
 The following guidelines are required for all patrons working in the Reading Room:
 
