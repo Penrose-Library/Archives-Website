@@ -5,7 +5,7 @@ url: research-services
 ---
 ## Reading Room Procedures
 
-The Reading Room is open from 9am-noon, 1pm-4pm, Monday through Friday. Appointments are required and must be made at least 24 hours in advance. [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment).
+The Reading Room is open 9 a.m.-noon & 1-4 p.m., Monday through Friday. Drop-in hours are available, pending staff availability, Tuesday-Thursday 9 a.m.-noon & 1-4 p.m.  Appointments are required on Monday and Friday and are preferred Tuesday-Thursday. Appointments must be made at least 24 hours in advance. [Appointments can be made online](https://whitman.libcal.com/appointments/archives-appointment).
 
 The following guidelines are required for all patrons working in the Reading Room:
 
@@ -26,8 +26,6 @@ The Archives houses the Walla Walla *Union-Bulletin* and other local newspaper
 Whitman students, faculty and staff can access the *Union-Bulletin* between 1945-2017 via [Newspaper Archive.](https://access-newspaperarchive-com.ezproxy.whitman.edu/us/washington/walla-walla/walla-walla-union-bulletin) Non-Whitman affiliates can purchase digital access to the *Union-Bulletin* via Newspaper Archive [here](https://wallawallaunionbulletin.newspaperarchive.com/).
 
 ## Scanning and Reproductions
-
-At this time, we are not accepting requests for scanning or reproduction due to short staffing. 
 
 Researchers are allowed to reproduce materials using personal cameras or cell phones at the discretion of Archives staff. In compliance with copyright law of the United States (Title 17, United States Code), any copies must not be “used for any purpose other than private study, scholarship or research.” By allowing for reproduction, WCNA does not grant permission to publish.
 
