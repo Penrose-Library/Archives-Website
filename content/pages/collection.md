@@ -59,7 +59,7 @@ Part of the circulating collection of Penrose Library, the Eells collection incl
 **[Archives West](https://archiveswest.orbiscascade.org/)** includes finding aids for our College Records and Northwest Manuscripts Collections. Our finding aids provide high-level overviews to the contents of an archival collection, including information about the creator and the scope and contents of the collection.
 
 **[Archives West](https://archiveswest.orbiscascade.org/)** also includes finding aids for archival repositories in the Western United States. To limit your search to Whitman collections only, use the search bar on the left hand side of the page.
-     <form action="https://archiveswest.orbiscascade.org/search.php" method="get" target="_blank"><input id="searchValue" name="q" type="text" class="form-control no-up-margin"> <input id="searchSubmit" class="btn" type="submit" value="search"> <input id="r" name="r" type="hidden" value="waww"></form>
+     <form action="https://archiveswest.orbiscascade.org/search.php" method="get" target="_blank"><input id="searchValue" name="q" type="text" class="form-control no-up-margin"> <input id="searchSubmit" class="archives-button" type="submit" value="search"> <input id="r" name="r" type="hidden" value="waww"></form>
 
 **Sherlock**, the library catalog, includes records for finding aids in Archives West, as well as rare books held in the Archives. To limit a search to materials in the Archives in Sherlock, use the search box below.
 
@@ -84,5 +84,5 @@ After you search in Sherlock, you can use the dropdown menu to limit your result
 								<input type="hidden" name="bulkSize" value="20">
                                                                <input type="hidden" value="whitc_special_collections" name="search_scope">
 							<!-- Search Button  -->                              
-	<input type="submit" value="search" id="searchrareb" class="btn">         	    
+	<input type="submit" value="search" id="searchrareb" class="archives-button">         	    
                      </form>
