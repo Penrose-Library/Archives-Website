@@ -8,9 +8,11 @@
       >
         <img src="{{ "images/logo-stacked-Penrose.png" | relURL }}" alt="Whitman College Logo">
       </a>
-      <p class="library-desc">
-        {{ with .Site.Params.description }} {{ . | markdownify }} {{ end }}
-      </p>
+      
+        {{ with .Site.Params.description }}
+          <p class="library-desc">{{ . | markdownify }}</p>
+        {{ end }}
+
     </div>
     {{ partial "nav.html" . }}
     {{ if eq .Site.Params.moveFooterToHeader true }}
